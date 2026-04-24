@@ -25,7 +25,7 @@ if st.button("Submit"):
   
 
     # Success message
-st.success("Operation completed successfully!")
+st.success("Dashboard updated successfully!")
 
 
     # Extra message for ambitious target
