@@ -22,3 +22,5 @@ else:
     st.write("No Clicked!")
 
 st.success("Operation completed successfully!")
+st.write("Operation completed successfully!")
+st.hearder("Operation completed successfully!")
