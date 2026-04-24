@@ -29,3 +29,5 @@ st.success("Dashboard updated successfully!")
 
 
     # Extra message for ambitious target
+if target > 100000:
+  st.wirte(f"NB")
