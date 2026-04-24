@@ -48,4 +48,8 @@ if st.button("Calculate Scientific"):
         result = math.tan(math.radians(value))
 
     st.success(f"Result: {result}")
+
+
+
+
     
