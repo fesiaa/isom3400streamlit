@@ -17,7 +17,7 @@ st.write(f"You selected: {option}")
 
 
 if st.button("Click Me"):
-    st.write("Button clicked!")
+    st.success("Operation completed successfully!")
 else:
     st.write("No Clicked!")
 
