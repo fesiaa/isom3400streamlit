@@ -1,4 +1,6 @@
 import streamlit as st
-st.header("Hello World!")
+st.title("Hello!")
 
-st.header("Hello ISOM3400")
+st.header("ISOM3400")
+st.header("ISOM3400")
+st.header("ISOM3400")
