@@ -23,4 +23,4 @@ else:
 
 st.success("Operation completed successfully!")
 st.write("Operation completed successfully!")
-st.hearder("Operation completed successfully!")
+st.header("Operation completed successfully!")
