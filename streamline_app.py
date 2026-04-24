@@ -4,3 +4,9 @@ st.title("Hello!")
 st.header("ISOM3400")
 
 st.write("**Bold Text** and *Italic Text*")
+
+age = st.number_input("Enter your age:",
+                      min_value=0,
+                      max_value=120,
+                      value=25)
+st.write(f"Your age is {age}")
